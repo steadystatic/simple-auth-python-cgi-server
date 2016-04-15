@@ -1,4 +1,4 @@
-# Simple Auth Python CGI Web Server Deploy Script
+# Simple Auth Python Web Server Deploy Script
 
 This could be a handy starting point for chat bots or simple deployment scripts.
 
